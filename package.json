@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.19.2"},"description":"AI chat assistant for fasteddieweb.com — answers questions from Ed's published offers and captures leads to his phone.","main":"server.mjs","name":"eddie-chat11","scripts":{"start":"node server.mjs"},"type":"module","version":"1.0.0"}
